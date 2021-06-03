@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Oktri3
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Raspberry pi pico Project
+- 💞️ I’m looking to collaborate with people who intersted with Raspberry Pi Pico
 - 📫 How to reach me: 
-Instagram: @oktri.322
-Facebook: @Oktri_Parzi
+Instagram: https://www.instagram.com/oktri.322/
+Facebook: https://www.facebook.com/oktri.parzi/
 
 
